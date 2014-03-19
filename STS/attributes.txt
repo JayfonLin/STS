@@ -1,0 +1,81 @@
+<begin pitch>
+<length> 100 <\length>
+<width> 60 <\width>
+<\end pitch>
+
+<begin team>
+<name> Manchester United<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> custom
+	<region> (10,0) (50, 16) <\region>
+	<region> (0,20) (17,22) <\region>
+	<region> (18,20) (35,22) <\region>
+	<region> (36,20) (53,22) <\region>
+	<region> (54,20) (59,28) <\region>
+	<region> (40,40) (48,45) <\region>
+	<region> (40,70) (48,75) <\region>
+	<region> (0,90) (17,92) <\region>
+	<region> (18,90) (35,92) <\region>
+	<region> (36,90) (53,92) <\region>
+	<region> (54,90) (59,98) <\region>
+<\strategy>
+<\end team>
+
+<begin team>
+<name> Chelsea<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> custom
+	<region> (10,0) (50, 16) <\region>
+	<region> (18,20) (35,22) <\region>
+	<region> (36,20) (53,22) <\region>
+	<region> (40,40) (48,45) <\region>
+	<region> (40,60) (48,65) <\region>
+	<region> (40,70) (48,75) <\region>
+	<region> (40,80) (48,85) <\region>
+	<region> (0,90) (17,92) <\region>
+	<region> (18,90) (35,92) <\region>
+	<region> (36,90) (53,92) <\region>
+	<region> (54,90) (59,98) <\region>
+<\strategy>
+<\end team>
+
+<begin team>
+<name> Liverpool<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> random
+<\strategy>
+<\end team>
+
+<begin team>
+<name> Arsenal<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> random
+<\strategy>
+<\end team>
+
+<begin team>
+<name> Manchester City<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> random <\strategy>
+<\end team>
+
+<begin team>
+<name> Aston Villa<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> random <\strategy>
+<\end team>
+
+<begin team>
+<name> Tottenham<\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> random <\strategy>
+<\end team>
+
+<begin team>
+<name> Blackburn Rovers <\name>
+<numberOfPlayers> 11 <\numberOfPlayers>
+<strategy> random
+<\strategy>
+<\end team>
+
+
